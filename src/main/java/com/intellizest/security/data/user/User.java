@@ -26,7 +26,6 @@ public class User {
 	private String email;
 	
 	@Column(name = "USERNAME", unique = true)
-	@Email(message = "{user.username.invalid}")
 	private String username;
 	
 	@Column(name = "PASSWORD")

@@ -9,6 +9,8 @@
 	<classpath>
 		<dir name="/Users/sandy/Documents/Projects/spring-security-example/target/classes">
 		</dir>
+		<dir name="/Users/sandy/Documents/Projects/spring-security-example/target/test-classes">
+		</dir>
 	</classpath>
 
 	<web>
